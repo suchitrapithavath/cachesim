@@ -1,0 +1,13 @@
+CS203 Computer Architecture
+CACHESIM	LAB - 2 Report
+Name: Suchitra pithavath	SID#: 862121654
+
+Instructions to run program :
+*DEVELOPED USING java 8
+Program can be run using the included script file shellscript.sh
+shellscript.sh contains the commands to generate all the values required in the Lab2AnswerTemplate.
+To run individually follow the template below
+From within the cachesim folder
+java cachemain -i gcc-1M.memtrace -cs 524288 -bs 16 -w 2
+
+
